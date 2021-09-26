@@ -44,6 +44,11 @@ Due to the OCR not always being able to recognise the text, sometimes it will cr
 To mitigate this issue I created a word document, used a large font size, wrote down the song and artist one at a time and problem was solved.
 
 ## Shortcomings:
+Special Characters have to be edited out.
+
+Example of a special character:
+
+
 Due to the design of this program, one can only enter a screenshot with the following format:
 
 __Song name__

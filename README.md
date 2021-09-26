@@ -1,6 +1,10 @@
 # Song-screenshot-to-Spotify-playlist
 This program converts an image containing song names and artist names to a Spotify playlist.
 
+## Demo
+
+![Demo](ReadMeImages/Animation.gif)
+
 ## Installation:
 	Requirements:
       •	Pytesseract must be installed on your machine, follow the instructions to install here: https://medium.com/@marioruizgonzalez.mx/how-install-tesseract-orc-and-pytesseract-on-windows-68f011ad8b9b 

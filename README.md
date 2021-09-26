@@ -48,6 +48,7 @@ Special Characters have to be edited out.
 
 Example of a special character:
 
+![Screenshot](ReadMeImages/explicit.png)
 
 Due to the design of this program, one can only enter a screenshot with the following format:
 
